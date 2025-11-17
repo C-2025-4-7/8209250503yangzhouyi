@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="exp2code8/exp2code8.vcxproj" Id="e7443c65-02b9-4ce8-9555-e5c3b63b8832" />
+</Solution>

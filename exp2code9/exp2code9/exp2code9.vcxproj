@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{a61495c3-abeb-48c7-8209-9e0fbdb0aced}</ProjectGuid>
-    <RootNamespace>exp2code4</RootNamespace>
+    <ProjectGuid>{cb0b1f6c-d735-4b5e-a33f-c885e1bd7e4e}</ProjectGuid>
+    <RootNamespace>exp2code9</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="exp2code4.cpp" />
+    <ClCompile Include="exp2code9.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
