@@ -18,6 +18,8 @@ int main() {
 		}
 
 	}
+	std::cout << A * B << std::endl;
+	std::cout << 4362897 / 11 << std::endl;
 	std::cout << "最小公倍数是：" << (A * B) / a << std::endl;
 	return 0;
 }
