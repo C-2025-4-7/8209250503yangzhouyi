@@ -27,7 +27,7 @@ int main() {
 	for (int i = 0; i < 3; i++) {
 		a = new rec(lst[i][0], lst[i][1], lst[i][2]);
 		std::cout<<a->volume()<<std::endl;
+		delete a;
 	}
-	delete a;
 	return 0;
 }

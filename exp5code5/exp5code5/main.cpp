@@ -18,7 +18,8 @@ class Point {
 
 };
 int main() {
-	Point p1(10, 12);
+	
+	Point p1(60, 80);
 	p1.setPoint(5, 6);
 	p1.display();
 	return 0;
