@@ -11,6 +11,6 @@ int total(int left,int days) {
 }
 
 int main() {
-	cout << total(1, 2) << endl;
+	cout << total(1, 10) << endl;
 	return 0;
 }
